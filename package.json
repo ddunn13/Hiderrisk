@@ -1,0 +1,14 @@
+{
+    "name": "@ddunn13/hiderrisk",
+    "version": "1.0.0",
+    "description": "obfuscate strings with aesterisk or custom character",
+    "license": "MIT",
+    "repository": "ddunn13/hiderrisk",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
