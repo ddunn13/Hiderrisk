@@ -1,6 +1,6 @@
 {
-    "name": "@ddunn13/hiderrisk",
-    "version": "1.0.0",
+    "name": "hiderrisk",
+    "version": "1.0.001",
     "description": "obfuscate strings with aesterisk or custom character",
     "license": "MIT",
     "repository": {
@@ -14,5 +14,9 @@
     },
     "devDependencies": {
         "jest": "^26.6.3"
-    }
+    },
+    "keywords": [
+        "obfuscate",
+        "hide"
+    ]
 }
