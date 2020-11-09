@@ -3,8 +3,12 @@
     "version": "1.0.0",
     "description": "obfuscate strings with aesterisk or custom character",
     "license": "MIT",
-    "repository": "ddunn13/hiderrisk",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/ddunn13/hiderrisk.git"
+    },
     "main": "index.js",
+    "homepage": "https://github.com/ddunn13/hiderrisk",
     "scripts": {
         "test": "jest"
     },
