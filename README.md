@@ -1,6 +1,6 @@
 # Hiderrisk
 
-Hiderrisk is a librarty which allows you to obfuscate strings to keep sensitive information secure
+Hiderrisk is a library which allows you to obfuscate strings to keep sensitive information secure
 
 ## Installation
 
@@ -11,7 +11,7 @@ npm install hiderrisk
 
 ## Usage
 
-```
+```javascript
 import hiderrisk from 'hiderrisk';
 
 //default use
